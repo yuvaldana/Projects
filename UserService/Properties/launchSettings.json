@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "JWT": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:55147;http://localhost:55148",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
